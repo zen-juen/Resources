@@ -39,3 +39,4 @@
 
 - [R Studio Cheatsheets](https://rstudio.com/resources/cheatsheets/)
 - [Data Science for Psychologists in R](https://bookdown.org/hneth/ds4psy/)
+- [Introduction to Python for Psychological Research](https://www.apa.org/science/about/psa/2019/07/python-research)
