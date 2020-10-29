@@ -31,12 +31,21 @@
 
 ### Experimental Softwares
 
-
 - [PsychoPy](http://www.psychopy.org/): Python, Experimental building, GUI and code editor for more fine-tuned control
 - [OpenSesame](http://osdoc.cogsci.nl): GUI for experiment building, extend with python code, See [Tutorial](https://osdoc.cogsci.nl/3.1/tutorials/beginner/)
 
 ### Programming
 
+#### R
+
 - [R Studio Cheatsheets](https://rstudio.com/resources/cheatsheets/)
 - [Data Science for Psychologists in R](https://bookdown.org/hneth/ds4psy/)
+- [Downloading R](https://cran.r-project.org/bin/windows/base/)
+- [Downloading R Studio](https://rstudio.com/products/rstudio/download/)
+- [Cambridge R Basic Course](https://github.com/cambiotraining/r-intro)
+
+#### Python
+
 - [Introduction to Python for Psychological Research](https://www.apa.org/science/about/psa/2019/07/python-research)
+- [Downloading Python](https://www.python.org/downloads/)
+- [Comprehensive Python Tutorial for Beginners](https://github.com/Akuli/python-tutorial): A Github Repo
