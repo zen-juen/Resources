@@ -43,6 +43,9 @@
 - [Downloading R](https://cran.r-project.org/bin/windows/base/)
 - [Downloading R Studio](https://rstudio.com/products/rstudio/download/)
 - [Cambridge R Basic Course](https://github.com/cambiotraining/r-intro)
+- [Tidyverse Tutorial](https://datacarpentry.org/R-ecology-lesson/03-dplyr.html)
+- [Data Visualization](https://r4ds.had.co.nz/data-visualisation.html)
+- [Correlation using easystats](https://www.r-bloggers.com/2020/03/the-ulimate-package-for-correlations-by-easystats/)
 
 #### Python
 
