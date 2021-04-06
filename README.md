@@ -8,7 +8,7 @@
 
 | Topic | Description |
 |----------------|---------------|
-| [Singapore Mental Health Study](https://www.valuechampion.sg/what-state-mental-health-singapore) | Conducted by Institute of Mental Health (IMH), Published in 2019 to analyse Singapore's mental illness rates and healthcare accessibility, how it compares to other nations, and its evolving landscape |
+| [Singapore Mental Health Study](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/91EF53CE124C3F7458D32700CCA08B8B/S2045796019000179a.pdf/tracking_the_mental_health_of_a_nation_prevalence_and_correlates_of_mental_disorders_in_the_second_singapore_mental_health_study.pdf) | Conducted by Institute of Mental Health (IMH), Published in 2019 to analyse Singapore's mental illness rates and healthcare accessibility, how it compares to other nations, and its evolving landscape |
 | [Demographics of Patients seeking Treatment in Singapore](https://www.moh.gov.sg/news-highlights/details/what-are-the-demographics-of-patients-receiving-psychiatric-treatment-and-mental-health-support) | Reported by MOH, describes most common mental health disorders seen in hospitals, and the average time taken to seek treatment after onset of symptoms across different disorders |
 | [Prevalence of Dementia in Singapore](https://pubmed.ncbi.nlm.nih.gov/25672767/) | WiSE (Well-being of the Singapore Elderly) study led by IMH to estimate the current prevalence of dementia |
 | [Neurological Disorders in Singapore](https://www.nni.com.sg/news/patient-care/22-increase-in-singaporeans-afflicted-with-neurological-conditions) | Published by National Neuroscience Institute (NNI), increase in Singaporeans with neurological disorders |
