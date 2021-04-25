@@ -34,6 +34,21 @@
 - [PsychoPy](http://www.psychopy.org/): Python, Experimental building, GUI and code editor for more fine-tuned control
 - [OpenSesame](http://osdoc.cogsci.nl): GUI for experiment building, extend with python code, See [Tutorial](https://osdoc.cogsci.nl/3.1/tutorials/beginner/)
 
+### Statistics
+
+#### Mixed Models
+
+- [When to use variable as both fixed and random](https://www.muscardinus.be/2017/08/fixed-and-random/)
+- [Syntax for specifying fixed and random effects in `lmer`](https://stats.stackexchange.com/questions/13166/rs-lmer-cheat-sheet)
+- [Introduction to GLMM](https://stats.idre.ucla.edu/other/mult-pkg/introduction-to-generalized-linear-mixed-models/)
+- [Introduction to LMM](https://ourcodingclub.github.io/tutorials/mixed-models/)
+- [General FAQ on mixed models](https://bbolker.github.io/mixedmodels-misc/glmmFAQ.html#introduction)
+- [Calculating R2](https://jonlefcheck.net/2013/03/13/r2-for-linear-mixed-effects-models/)
+
+#### Structural Equation Modelling
+
+- [SEM for Psychologists](https://github.com/mattansb/Structural-Equation-Modeling-foR-Psychologists)
+
 ### Programming
 
 #### R
