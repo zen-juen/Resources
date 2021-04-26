@@ -44,6 +44,8 @@
 - [Introduction to LMM](https://ourcodingclub.github.io/tutorials/mixed-models/)
 - [General FAQ on mixed models](https://bbolker.github.io/mixedmodels-misc/glmmFAQ.html#introduction)
 - [Calculating R2](https://jonlefcheck.net/2013/03/13/r2-for-linear-mixed-effects-models/)
+- [Workshop exercises on regression, GLMs, mixed-effects models, and GLMMs in R] (https://github.com/seananderson/glmm-course)
+- [Worked Examples](https://bbolker.github.io/mixedmodels-misc/ecostats_chap.html)
 
 #### Structural Equation Modelling
 
