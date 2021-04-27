@@ -38,6 +38,7 @@
 
 #### Mixed Models
 
+- [Common statistical tests are linear models (or: how to teach stats)](https://lindeloev.github.io/tests-as-linear/#1_the_simplicity_underlying_common_tests)
 - [When to use variable as both fixed and random](https://www.muscardinus.be/2017/08/fixed-and-random/)
 - [Syntax for specifying fixed and random effects in `lmer`](https://stats.stackexchange.com/questions/13166/rs-lmer-cheat-sheet)
 - [Introduction to GLMM](https://stats.idre.ucla.edu/other/mult-pkg/introduction-to-generalized-linear-mixed-models/)
@@ -45,6 +46,8 @@
 - [General FAQ on mixed models](https://bbolker.github.io/mixedmodels-misc/glmmFAQ.html#introduction)
 - [Calculating R2](https://jonlefcheck.net/2013/03/13/r2-for-linear-mixed-effects-models/)
 - [Workshop exercises on regression, GLMs, mixed-effects models, and GLMMs in R](https://github.com/seananderson/glmm-course)
+- [Mixed Models with R by Michael Clark](https://m-clark.github.io/mixed-models-with-R/)
+- [Generative Additive Models in R by Noam Ross](https://noamross.github.io/gams-in-r-course/)
 - [Worked Examples](https://bbolker.github.io/mixedmodels-misc/ecostats_chap.html)
 
 #### Structural Equation Modelling
