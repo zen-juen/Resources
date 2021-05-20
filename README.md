@@ -54,6 +54,10 @@
 
 - [SEM for Psychologists](https://github.com/mattansb/Structural-Equation-Modeling-foR-Psychologists)
 
+#### Miscellaneous
+
+- [Analyzing visual analog data](https://mvuorre.github.io/posts/2019-02-18-analyze-analog-scale-ratings-with-zero-one-inflated-beta-models/)
+
 ### Programming
 
 #### R
