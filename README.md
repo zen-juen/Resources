@@ -50,6 +50,9 @@
 - [Generative Additive Models in R by Noam Ross](https://noamross.github.io/gams-in-r-course/)
 - [Worked Examples](https://bbolker.github.io/mixedmodels-misc/ecostats_chap.html)
 
+#### Bayesian Regression Models
+- [Estimating Distributional Models with `brms`](https://cran.r-project.org/web/packages/brms/vignettes/brms_distreg.html)
+
 #### Structural Equation Modelling
 
 - [SEM for Psychologists](https://github.com/mattansb/Structural-Equation-Modeling-foR-Psychologists)
