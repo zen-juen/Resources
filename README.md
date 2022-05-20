@@ -1,10 +1,17 @@
 # Psychology Resources: General Issues, Research, News
 
+## 1) Neuroanatomy and Neuropsychology :brain:
 
-## News :newspaper:
+- [Online Neurovasculature Web-Atlas Resource](http://www.radnet.ucla.edu/sections/DINR/index.htm)
+- [University of Utah Patholagy Lab for Medical Education](https://webpath.med.utah.edu/)
+- [Sample Assessment Reports](https://www.pearsonclinical.com.au/reports)
+
+## 2) Pharmacology :pill:
+- [Australian Register of Therapeutic Goods](https://www.tga.gov.au/australian-register-therapeutic-goods)
+
+## 3) News :newspaper:
 
 ### Mental Health
-
 
 | Topic | Description |
 |----------------|---------------|
@@ -13,12 +20,12 @@
 | [Prevalence of Dementia in Singapore](https://pubmed.ncbi.nlm.nih.gov/25672767/) | WiSE (Well-being of the Singapore Elderly) study led by IMH to estimate the current prevalence of dementia |
 | [Neurological Disorders in Singapore](https://www.nni.com.sg/news/patient-care/22-increase-in-singaporeans-afflicted-with-neurological-conditions) | Published by National Neuroscience Institute (NNI), increase in Singaporeans with neurological disorders |
 
-## Services :telephone:
+## 4) Services :telephone:
 
 - [SAGE Counselling Centre](https://www.sagecc.org.sg/): aims to help enhance total well-being of older persons, caregivers and family members; help older adults aged 50 for anxiety, loneliness, relationship difficulties
 - [Samaritans of Singapore](https://www.sos.org.sg/?gclid=Cj0KCQjwnqH7BRDdARIsACTSAdtoFTFDLN_7XFC8NXJZJ7KgmrBbaoJDQh9HS01rZigeWyIhsQiAvIUaApSzEALw_wcB): Provides round-the-clock emotional support via various SOS services, e.g., 24-hour helpline
 
-## Research :mag_right:
+## 5) Research :mag_right:
 
 ### Studies
 
